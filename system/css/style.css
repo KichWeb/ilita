@@ -33,7 +33,7 @@ ul ul, ol ul, ul ol, ol ol {margin-bottom:0;}
 	.header.mini > .block > .menu > li > a > .fa {font-size:25px;margin-bottom:7px;}
 }
 @media(max-width: 930px) {
-	.block {width:100%;margin:0;}
+	.block {width:100%;margin:0; height:100%;}
 	.header .block {padding:20px;}
 	.header .block > .logo {width:200px;height:200px;margin-bottom:50px;}
 	.header .block > .menu {padding-top:0px;line-height:48px;width:100%;margin:0;}
