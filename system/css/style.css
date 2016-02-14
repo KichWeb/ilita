@@ -114,3 +114,19 @@ ul ul, ol ul, ul ol, ol ol {margin-bottom:0;}
 	.appsy .content .block:before {border-radius:0;}
 }
 /* ----- */
+.feature {padding-top: 5px !important;}
+.featuretext *{
+	margin-top: 5px !important;
+	margin-bottom: 10px !important;
+}
+
+
+
+.iconsreklama {
+	margin-bottom: 5px;
+}
+.featureimg {
+	text-align: center;
+	font-weight: bold;
+}
+
